@@ -2,6 +2,7 @@
     ADD CARD FEATURE
     hotfix done here
     font style edited
+    BUG FIXED!!!
 */
 let cart = ["Prod_171"];
 
